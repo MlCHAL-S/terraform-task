@@ -1,0 +1,5 @@
+project       = "playground-s-11-766b9898"
+region        = "us-central1"
+zone          = "us-central1-a"
+image         = "debian-cloud/debian-11"
+machine_type  = "e2-micro"
